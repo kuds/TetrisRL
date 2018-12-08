@@ -1,1 +1,1 @@
-# RLTetris
+# Tetris & Reinforcement Learning
